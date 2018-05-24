@@ -1,5 +1,3 @@
-# telcel
-Prueba de Telefonos
 <html>
 
 <head>
